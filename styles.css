@@ -16,11 +16,10 @@ header {
 }
 
 .fb-page {
-  width: 100%; /* El plugin de Facebook ocupa el ancho completo */
+  width: 100%; 
   margin-left: 250px;
   align-items: center;
 }
-
 
 .logo {
   max-width: 150px;
